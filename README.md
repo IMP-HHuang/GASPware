@@ -7,4 +7,10 @@
    <img src="./Fig/cmat.png" width="100%" height="100%">
    
   - xtrackn (Analyse data)
+    - 空格：选中范围
+    - E:　放大
+    - Gate
+      - W: 选范围
+      - WC: 开窗
+    - 鼠标右击:　分割画布   　    
    <img src="./Fig/xtrackn.png" width="100%" height="100%">
