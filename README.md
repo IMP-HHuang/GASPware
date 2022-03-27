@@ -7,6 +7,7 @@
    <img src="./Fig/cmat.png" width="100%" height="100%">
    
   - xtrackn (Analyse data)
+    -　CP: 寻峰 
     - 空格：选中范围
     - E:　放大
     - Gate
