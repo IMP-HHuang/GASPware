@@ -1,0 +1,13 @@
+ROOTINC = $(shell root-config --cflags)
+ROOTLIB = $(shell root-config --new --libs)
+
+	
+BIN     = .
+CC      =  g++
+CCFLAG   = -O -Wall -fPIC
+
+PSort:	PSort.cpp
+		$(CC) $(CCFLAG) $(ROOTINC) $(ROOTLIB) $(CCENV) -lm $< -o $(BIN)/$@
+		
+
+
