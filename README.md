@@ -16,5 +16,5 @@
       - W: 选范围
       - WC: 开窗
     - 鼠标右击:　分割画布 
-    - 清楚  　    
+    - 清除　ZA + ZW    
    <img src="./Fig/xtrackn.png" width="100%" height="100%">
