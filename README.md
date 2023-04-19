@@ -5,7 +5,7 @@
   - export GSDIR=/usr/local/EGASPware/etc
 
 # Run
-  - cmat (Make cmat file) 
+  - cmat (Make cmat file，在GASPware/bin目录下) 
    <img src="./Fig/cmat.png" width="100%" height="100%">
    
   - xtrackn (Analyse data)
