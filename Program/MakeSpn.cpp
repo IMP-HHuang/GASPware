@@ -18,7 +18,7 @@ void MakeSpn()
     }
 	//Output  *.spn file
     FILE *fout;
-    fout = fopen("out.spn", "wb+");
+    fout = fopen("out.spn", "wb+");  // b 二进制
     for(Int_t zi=0; zi<BinMax; zi++)
     	fwrite(zmat[zi], BytesPerChannel, BinMax, fout);
     fclose(fout);
