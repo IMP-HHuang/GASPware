@@ -4,7 +4,7 @@
   - export PATH=$PATH:/usr/local/EGASPware/bin
   - export GSDIR=/usr/local/EGASPware/etc
 
-# [spn 文件生成]
+# [spn 文件生成](./Program/)
 
 ```cpp
 
