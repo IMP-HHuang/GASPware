@@ -39,7 +39,7 @@ void MakeSpn()
 ```
 
 # Run
-  - cmat (Make cmat file，在GASPware/bin目录下) 
+  - cmat (Make cmat file，在GASPware/bin目录下) 将spn二进制文件转换成cmat文件
    <img src="./Fig/cmat.png" width="100%" height="100%">
    
   - xtrackn (Analyse data)
